@@ -12,5 +12,6 @@ Members:
   - Maggie M (maggie.tech.nj@gmail.com)
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
+  - Sean O'Neill (soneill1@ramapo.edu)
   - Mark Badros (mbadros@gmail.com)
   - Fred Mitchell (FMitchell75@gmail.com)
