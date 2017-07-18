@@ -8,4 +8,6 @@ Members:
   - Shaun Ellis (shaun@sdellis.com)
   - Robert Neal (robneal28@gmail.com)
   - Maggie M (maggie.tech.nj@gmail.com)
+  - Erika Serrano (akire.nyc08@yahoo.com)
+  
 
