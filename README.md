@@ -13,3 +13,4 @@ Members:
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
   - Mark Badros (mbadros@gmail.com)
+  - Fred Mitchell (FMitchell75@gmail.com)
