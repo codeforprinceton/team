@@ -1,4 +1,6 @@
-# team
+
+
+- # team
 Code For Princeton Members sample repo for Idea2App classes
 
 
@@ -10,4 +12,5 @@ Members:
   - Maggie M (maggie.tech.nj@gmail.com)
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
+  - Mark Badros (mbadros@gmail.com)
   - Fred Mitchell (FMitchell75@gmail.com)
