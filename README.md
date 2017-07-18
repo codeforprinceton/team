@@ -10,3 +10,4 @@ Members:
   - Maggie M (maggie.tech.nj@gmail.com)
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
+  - Ted Takvorian (ipadheadphones@gmail.com)
