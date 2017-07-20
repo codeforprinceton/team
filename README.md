@@ -12,6 +12,7 @@ Members:
   - Maggie M (maggie.tech.nj@gmail.com)
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
+  - Max Charles (mcharles1682@gmail.com)
   - Colin (colstat@gmail.com)
   - insungchoe (insungchoe@gmail.com)
   - Xavier Jones (aj2k7@yahoo.com)
