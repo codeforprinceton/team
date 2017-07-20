@@ -1,8 +1,10 @@
-# team
+
+
+- # team
 Code For Princeton Members sample repo for Idea2App classes
 
 
-Hello World!
+Hello World! Nevermind.
 
 Members:
   - Shaun Ellis (shaun@sdellis.com)
@@ -11,3 +13,15 @@ Members:
   - Erika Serrano (akire.nyc08@gmail.com)
   - Hanson Yu (hansoncyu@gmail.com)
   - Max Charles (mcharles1682@gmail.com)
+  - Colin (colstat@gmail.com)
+  - insungchoe (insungchoe@gmail.com)
+  - Xavier Jones (aj2k7@yahoo.com)
+  - Abhi Singal (abhi.singal@nyu.edu)
+  - Ariel Baruch (baruch215@gmail.com)
+  - Elaine Howard (elainehoward9991@gmail.com)
+  - Janel A. McCoy (janelamccoy@gmail.com)
+  - Frank Derby (fderby@gmail.com)
+  - Alison (alison@princetonlearningcooperative.org)
+  - Sean O'Neill (soneill1@ramapo.edu)
+  - Mark Badros (mbadros@gmail.com)
+  - Fred Mitchell (FMitchell75@gmail.com)
